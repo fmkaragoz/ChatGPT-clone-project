@@ -4,51 +4,51 @@
 
 ## ChatGPT-clone-project
 
-- Bu proje, OpenAI'nin GPT-3 tabanlı bir dil modeli kullanarak bir sohbet uygulaması oluşturmayı 
-  amaçlar. Kullanıcılar, metin girişi yapabilir ve yapay zeka tabanlı bir modelden gelen cevapları 
-  gözlemleyebilirler. İşte projenin önemli özellikleri ve kullanım talimatları:
+- This project aims to create a chat application using a GPT-3 based language model from OpenAI.
+   purposes. Users can enter text and receive answers from an AI-based model.
+   They can observe. Here are the important features and usage instructions of the project:
 
-## Özellikler
-- Karanlık ve Açık Mod Desteği
+## Features
+- Dark and Light Mode Support
 
-- Kullanıcılar, tema düğmesine tıklayarak arayüzü karanlık veya açık modda görüntüleyebilirler.
-  Tercih edilen tema, yerel depolamada saklanır ve ziyaretçi tarayıcı kapatıldıktan sonra bile korunur.
+- Users can view the interface in dark or light mode by clicking the theme button.
+   The preferred theme is stored in local storage and is retained even after the visitor closes the browser.
 
-## Sohbet Geçmişi ve Silme
+## Chat History and Deletion
 
-- Kullanıcılar, sohbet geçmişini görüntüleyebilir ve istediklerinde tüm sohbet geçmişini silebilirler.
-  Silme işlemi, kullanıcıya onay soran bir pencere ile gerçekleştirilir.
+- Users can view chat history and delete all chat history whenever they want.
+   The deletion process is carried out with a window asking the user for confirmation.
 
-## OpenAI GPT-3 Entegrasyonu
+## OpenAI GPT-3 Integration
 
-- Kullanıcılar, metin girişi yaparak yapay zeka modelinden gerçek zamanlı cevaplar alabilirler.
-  Sohbet kutusundaki metin, OpenAI GPT-3 API kullanılarak bir model tarafından işlenir ve yanıt olarak 
-  görüntülenir.
+- Users can get real-time answers from the artificial intelligence model by entering text.
+   The text in the chat box is processed by a model using the OpenAI GPT-3 API and returned as a response.
+   is displayed.
 
-## Kullanım
+## Use
 
-- Tema Değiştirme
+- Change Theme
 
-- Sayfanın üst kısmındaki "Tema Değiştir" düğmesine tıklayarak arayüzü karanlık veya açık moda 
-  geçirebilirsiniz.
+- Change the interface to dark or light mode by clicking the "Change Theme" button at the top of the page.
+   You can pass.
 
-## Sohbet Geçmişi Silme
+## Delete Chat History
 
-- Sayfanın üst kısmındaki "Sil" düğmesine tıklayarak tüm sohbet geçmişini silebilirsiniz. Bu işlemi 
-  gerçekleştirmeden önce bir onay penceresi görüntülenir.
+- You can delete all chat history by clicking the "Delete" button at the top of the page. This process
+   A confirmation window appears before executing.
 
-## Metin Girişi ve Cevap Alma
+## Text Entry and Response Receiving
 
-- Sohbet kutusuna metin girişi yapabilir ve ardından "Gönder" düğmesine tıklayarak gönderim 
-  gerçekleştirebilirsiniz.
-  OpenAI GPT-3, kullanıcının metin girişine yanıt olarak bir cevap oluşturur.
+- You can input text in the chat box and then click on the "Send" button to send
+   you can do it.
+   OpenAI GPT-3 generates a response in response to the user's text input.
 
-## Kurulum ve Yerel Kullanım
+## Installation and Local Usage
 
-- Proje dosyalarını bilgisayarınıza indirin.
-  İndirilen dosyaları bir web sunucusuna veya tarayıcıda doğrudan açarak projeyi başlatın.
-  Sohbet başlangıcı için metin girişi yapın ve cevapları gözlemleyin.
+- Download the project files to your computer.
+   Start the project by opening the downloaded files directly to a web server or in the browser.
+   Enter text to start the chat and observe the answers.
 
-Bu basit ChatGPT Clone projesi, OpenAI GPT-3'ün kullanımını göstermek için tasarlanmıştır. Projeyi kullanarak, GPT-3'ün gücünü deneyimleyebilir ve bu tür yapay zeka entegrasyonlarını anlamak için bir başlangıç yapabilirsiniz.
+This simple ChatGPT Clone project is designed to demonstrate the use of OpenAI GPT-3. By using the project, you can experience the power of GPT-3 and get a head start on understanding this type of AI integrations.
 
-## Not: Projenin kullanımı için OpenAI GPT-3 API anahtarınızın olduğundan emin olun. Bu anahtar, API_KEY değişkenine atanmalıdır.
+## Note: Make sure you have the OpenAI GPT-3 API key for the project to use. This key must be assigned to the API_KEY variable.
