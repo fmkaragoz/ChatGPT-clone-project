@@ -52,3 +52,6 @@
 This simple ChatGPT Clone project is designed to demonstrate the use of OpenAI GPT-3. By using the project, you can experience the power of GPT-3 and get a head start on understanding this type of AI integrations.
 
 ## Note: Make sure you have the OpenAI GPT-3 API key for the project to use. This key must be assigned to the API_KEY variable.
+
+![chatGPT-Clone](![chatGPT-clone](https://github.com/fmkaragoz/ChatGPT-clone-project/assets/148713912/b89e2697-759a-4c90-8d1d-447eb324739f)
+)
